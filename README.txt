@@ -1,10 +1,8 @@
 Mohammed Ibrahim Khan
-email: mkhan26@ur.rochester.edu
-UR netID: mkhan26
+email: ibrahimkhan7777@gmail.com
 
 INSTRUCTIONS TO RUN THE CODE:
 
-- Extract the Project1_ibrahim.zip file
 - Code is the file named mancala.py in the src folder inside the extracted folder
 - On the command line, go to the src directory
 - Type the following command:
